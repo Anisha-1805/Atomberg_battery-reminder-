@@ -1,0 +1,17 @@
+[
+    {
+        "lock_id": "L001",
+        "campaign_id": "c448ff12-1001-47e3-becd-82b9fe2d4133",
+        "timestamp": "2025-12-11T19:02:52.640207"
+    },
+    {
+        "lock_id": "L002",
+        "campaign_id": "c448ff12-1001-47e3-becd-82b9fe2d4133",
+        "timestamp": "2025-12-11T19:02:52.642740"
+    },
+    {
+        "lock_id": "L003",
+        "campaign_id": "c448ff12-1001-47e3-becd-82b9fe2d4133",
+        "timestamp": "2025-12-11T19:02:52.660404"
+    }
+]
