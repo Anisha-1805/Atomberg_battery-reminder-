@@ -14,8 +14,8 @@ A local, end-to-end system that detects locks with outdated battery checks (>30 
 - 🧪 Run & Testing Guide
 - 📁 Project Structure
 - 📊 Findings & Recommendations
-- 🤝 Contributing
-- 📄 License
+- 💡 Recommendations
+- 🌐 GitHub Repository
 
 ---
 
