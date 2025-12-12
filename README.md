@@ -76,16 +76,13 @@ It also tracks:
 
 ## 🚀 Quick Start
 
-1️⃣ Clone the Repository
-
-git clone https://github.com/your-repo/battery-reminder.git
-cd battery-reminder
-
 2️⃣ Create Virtual Environment
 
 python3 -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-# .venv\Scripts\activate     # Windows
+source .venv/bin/activate   
+# macOS/Linux
+# .venv\Scripts\activate     
+# Windows
 pip install -r requirements.txt
 
 3️⃣ Configure Firebase
